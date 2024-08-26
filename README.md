@@ -1,7 +1,7 @@
 
 # My First Coding Assignment #
 
-![picture alt] (https://i.imgflip.com/s71u5.jpg?a478920)
+![picture alt](https://i.imgflip.com/s71u5.jpg?a478920)
 
 ## About Me ##
 Im 27 years old, grew up in NH but live in Boston now. I enjoy watching/playing basketball, gaming (pc and console) and hanging out with friends.
